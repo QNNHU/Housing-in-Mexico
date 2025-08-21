@@ -57,3 +57,11 @@ It demonstrates an **end-to-end data science workflow** including data cleaning,
 ---
 
 ## 📂 Repository Structure
+```
+housing-price-mexico/
+├── data/ # Raw and processed datasets (if public)
+├── housing_app/ # Python code
+├── venv/ # Virtual environment (not included in repo)
+├── images/ # Plots and visualizations
+└── README.md # Project overview
+```
