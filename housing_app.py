@@ -1,9 +1,7 @@
 import pandas as pd
-import seaborn as sns
 from category_encoders import OneHotEncoder
-from ipywidgets import Dropdown, FloatSlider, IntSlider, interact
 from sklearn.impute import SimpleImputer
-from sklearn.linear_model import LinearRegression, Ridge  # noqa F401
+from sklearn.linear_model import Ridge  
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import make_pipeline
 from glob import glob

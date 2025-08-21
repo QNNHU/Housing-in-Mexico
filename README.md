@@ -20,11 +20,10 @@ It demonstrates an **end-to-end data science workflow** including data cleaning,
 ---
 
 ## 🛠️ Tools & Libraries
-- Python (pandas, numpy, matplotlib, seaborn)
-- scikit-learn (Linear Regression, Ridge, pipelines)
+- Python (pandas, numpy, matplotlib)
+- scikit-learn (Ridge, pipelines, SimpleImputer)
 - category_encoders (OneHotEncoder)
-- ipywidgets (for interactivity)
-- matplotlib / seaborn (for visualization)
+- matplotlib  (for visualization)
 
 ---
 
@@ -58,9 +57,3 @@ It demonstrates an **end-to-end data science workflow** including data cleaning,
 ---
 
 ## 📂 Repository Structure
-housing-price-mexico/
-├── data/              # Raw and processed datasets (if public)
-├── housing_app/       # Python code 
-├── venv/              # Virtual environment (not needed in repo)
-├── images/            # Plots and visualizations
-└── README.md          # Project overview
