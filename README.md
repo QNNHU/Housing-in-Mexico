@@ -50,7 +50,7 @@ It demonstrates an **end-to-end data science workflow** including data cleaning,
 ## 📈 Results
 - **Baseline MAE**:  17239.93
 - **Ridge Model MAE**: 14943.16 
-- **Top Features**: Borough, latitude/longitude  
+- **Top Features**: Borough 
 
 ![Feature Importances Plot](images/feature_importances.png)
 
